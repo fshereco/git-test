@@ -1,0 +1,4 @@
+Hello World
+Here we start the journey to become a software developer 
+on Nov 15, 2023
+lets see how it goes
